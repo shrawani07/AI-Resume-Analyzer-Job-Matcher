@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#ff69b4"  # Hot Pink
+backgroundColor="#1a1a2e"  # Dark Blue-Black
+secondaryBackgroundColor="#16213e"  # Deep Blue
+textColor="#ffffff"  # White
+font="serif"
